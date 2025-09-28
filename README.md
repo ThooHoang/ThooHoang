@@ -1,40 +1,31 @@
 # 👋 Hi, I'm Quang Tho Hoang  
 
-🎓 From Slovakia, currently studying at **Business Academy Aarhus**  
-💻 **Frontend Developer**  
+🎓 From Slovakia • 📍 Studying at Business Academy Aarhus  
+💻 Aspiring Frontend Developer  
 
 ---
 
 ## 🌱 About Me  
+I’ve had my ups and downs in coding — from **tutorial hell** and relying too much on AI, to battling **impostor syndrome**.  
 
-My journey into web development hasn’t been straightforward.  
-I’ve gone through **burnout**, **tutorial hell**, and even built many school projects using AI without truly learning. For a long time, I struggled with impostor syndrome and doubted if I could make it.  
+In **April 2025**, I switched to **project-based learning**. Now I’m focused on mastering the vanilla stack.
 
-But in **May 2025**, I changed my approach — I switched to **project-based learning**. Since then, I’ve been focusing on mastering the **vanilla stack (HTML, CSS, JavaScript)** step by step.  
+By the End of 2025 I want to:
 
-Now, I’m motivated more than ever:  
 - 🟡 Become comfortable with **JavaScript** (my main focus)  
 - ⚛️ Move into **React** by the end of this year  
-- 📘 Learn **TypeScript**  
 - 🎨 Explore **Tailwind** & **GSAP** for styling and animations  
-
-I’m still at the beginning, but I truly believe that one day my work will make an impact.  
 
 ---
 
 ## 🚀 Goals  
-
-- Keep building real projects to sharpen my problem-solving skills  
-- Use AI as a **learning partner**, not a crutch — making sure I understand the code I ship  
-- Land an **internship** where I can grow as a frontend developer  
+- Build projects that solve real problems  
+- Grow my **problem-solving skills** (with AI as support, not a crutch)  
+- Land an **internship** and keep leveling up as a frontend dev  
 
 ---
 
 ## 📫 Let’s Connect  
-
-- ✉️ Email: **adamhoang23@gmail.com**  
-- 💼 LinkedIn: [Quang Tho Hoang](https://www.linkedin.com/in/quang-tho-hoang-42801b322/)  
-- 🖥️ Portfolio: [Portfolio](https://thoohoang.github.io/quangthohoang/)  
-
----
-
+- ✉️ **adamhoang23@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/quang-tho-hoang-42801b322/)  
+- 🌐 [Portfolio](https://thoohoang.github.io/quangthohoang/)  
