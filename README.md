@@ -8,7 +8,7 @@
 ## 🌱 About Me  
 I’ve had my ups and downs in coding — from **tutorial hell** and relying too much on AI, to battling **impostor syndrome**.  
 
-In **April 2025**, I switched to **project-based learning**. Now I’m focused on mastering the vanilla stack.
+In **April 2025**, I switched the learning strategy and now I’m focused on mastering the vanilla stack.
 
 By the End of 2025 I want to:
 
