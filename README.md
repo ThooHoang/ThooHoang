@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Quang Tho Hoang  
 
 🎓 From Slovakia • 📍 Studying at Business Academy Aarhus  
-💻 Frontend Developer  
+💻 UX/UI Designer & Frontend Developer  
 
 ## 📫 Let’s Connect  
 - ✉️ **adamhoang23@gmail.com**  
